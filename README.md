@@ -37,7 +37,7 @@ sale, if the car was not sold the price is -1)
   A patient has a cardiovascular risk either if the result of any of the mentioned analyzes exceeds the upper normal value, or if he has a family history (in the case of children), or if he is a smoker and has a high degree of sedentary lifestyle (in the case of patients over 40 years). A patient has a high cardiovascular risk if at least two of the cardiovascular risk situations are present.
   The program should enable the ntroduction of patients, one by one, together with their medical information, in the most convenient format, create a data structure in which to add patient records and display patient medical information in a standard format, depending on the doctor's choice.
   The doctor can choose between displaying medical information for:
-  * 1. all patients.
-  * 2. all adult patients with high cardiovascular risk factor.
-  * 3. all pediatric patients with cardiovascular risk factor.
-  * 4. all patients who have the (family) name equal to a given name.
+  - 1. all patients.
+  - 2. all adult patients with high cardiovascular risk factor.
+  - 3. all pediatric patients with cardiovascular risk factor.
+  - 4. all patients who have the last name equal to a given name.
