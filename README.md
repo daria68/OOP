@@ -4,12 +4,12 @@ University projects implemented using Object Oriented Programming concepts
 ## Car Exhibition
 
   Mandatory requirements:
-    - use of templates
-    - use of STL
-    - the use of variables, static functions, constants and a const function
-    - use of RTTI concepts related to templates
-    - handling exceptions
-    - reading the complete information of n objects, storing and displaying them
+    - use of templates.
+    - use of STL.
+    - the use of variables, static functions, constants and a const function.
+    - use of RTTI concepts related to templates.
+    - handling exceptions.
+    - reading the complete information of n objects, storing and displaying them.
 
   The sports car fair is organized in May, so that enthusiasts can enjoy themselves
 with COUPE, HOT-HATCH models (small and compact hatckback models with
